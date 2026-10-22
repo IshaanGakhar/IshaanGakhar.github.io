@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Archive not active"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+permalink: /teaching/2015-spring-teaching-2
+venue: "Not currently used"
 date: 2015-01-01
-location: "City, Country"
+location: "N/A"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This archive is not active for the live site. Current updates are listed on the [Publications](https://ishaangakhar.github.io/publications/) and [CV](https://ishaangakhar.github.io/cv/) pages.
 
 Heading 1
 ======

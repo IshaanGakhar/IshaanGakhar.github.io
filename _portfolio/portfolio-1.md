@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Perssonify: Legal document classification and knowledge graphs"
+excerpt: "Lightweight legal document classification and knowledge graph reasoning for large-scale legal data."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Perssonify focuses on legal document classification and knowledge extraction across large-scale US securities class-action datasets. The system is designed to handle class imbalance and metadata extraction without relying on filenames, while reducing processing time by up to 60×. It supports dynamic additions and removals in a legal knowledge graph and enables bad-law flagging, clause retrieval, fact mining, argument/fact/position analysis, and agentic drafting workflows.

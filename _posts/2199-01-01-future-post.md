@@ -1,11 +1,9 @@
 ---
-title: 'Future Blog Post'
+title: 'Archive not active'
 date: 2199-01-01
 permalink: /posts/2199/01/blog-post-4/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - archive
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+This archive is not active for the live site. Current updates are listed on the [Research](https://ishaangakhar.github.io/portfolio/) and [Publications](https://ishaangakhar.github.io/publications/) pages.
